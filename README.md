@@ -25,13 +25,13 @@ cd TempAboveAve
 ## Run these commands
 
 ```bash
-javac TempCalc
+javac TempCalc.java
 ```
 
 then
 
 ```bash
-java TempCalc
+java TempCalc.java
 ```
 
 ## Example output
