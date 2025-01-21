@@ -9,7 +9,7 @@ By: Michael O'brien
 
 ## Files
 
-- **TempCalc.java:** The Java source file containing the program.
+- **TempCalc.java:** source file
 - **TerminalSession** output of the program
 
 **Clone repository** and navigate to the project directory.
