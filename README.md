@@ -1,5 +1,7 @@
 ## Program Overview
 
+By: Michael O'brien
+
 - The program prompts the user to enter temperature values for 5 days.
 - It calculates the average temperature of those 5 days.
 - It then counts how many of those days had a temperature above the average.
