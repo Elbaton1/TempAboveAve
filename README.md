@@ -12,35 +12,35 @@ By: Michael O'brien
 - **TempCalc.java:** The Java source file containing the program.
 - **TerminalSession** output of the program
 
-  **Clone repository** and navigate to the project directory.
+**Clone repository** and navigate to the project directory.
 
-  ```bash
-  git clone https://github.com/Elbaton1/TempAboveAve.git
-  ```
+```bash
+git clone https://github.com/Elbaton1/TempAboveAve.git
+```
 
-  ```bash
-  cd TempAboveAve
-  ```
+```bash
+cd TempAboveAve
+```
 
-  **Run these commands**
+## Run these commands
 
-  ```bash
-  javac TempCalc
-  ```
+```bash
+javac TempCalc
+```
 
-  then
+then
 
-  ```bash
-  java TempCalc
-  ```
+```bash
+java TempCalc
+```
 
-  **Example output:**
+## Example output
 
-  Please enter 5 temperatures:
-  Temperature for day 1: 5
-  Temperature for day 2: 10
-  Temperature for day 3: 15
-  Temperature for day 4: 20
-  Temperature for day 5: 25
-  Average temperature: 15.0
-  Number of days above average temperature: 2
+Please enter 5 temperatures:
+Temperature for day 1: 5
+Temperature for day 2: 10
+Temperature for day 3: 15
+Temperature for day 4: 20
+Temperature for day 5: 25
+Average temperature: 15.0
+Number of days above average temperature: 2
