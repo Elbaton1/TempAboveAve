@@ -10,14 +10,35 @@
 - **TempCalc.java:** The Java source file containing the program.
 - **TerminalSession** output of the program
 
-## How to Compile and Run
+  **Clone repository** and navigate to the project directory.
 
-1. **Ensure Java is installed on your system.**  
-   You can download it from [Oracle's website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) if necessary.
+  ```bash
+  git clone https://github.com/Elbaton1/TempAboveAve.git
+  ```
 
-2. **Clone or download this repository** and navigate to the project directory. For example:
-   bash```
-   git clone https://github.com/Elbaton1/TempAboveAve.git
-   ```
-   cd TempAboveAve
-   ```
+  ```bash
+  cd TempAboveAve
+  ```
+
+  **Run these commands**
+
+  ```bash
+  javac TempCalc
+  ```
+
+  then
+
+  ```bash
+  java TempCalc
+  ```
+
+  **Example output:**
+
+  Please enter 5 temperatures:
+  Temperature for day 1: 5
+  Temperature for day 2: 10
+  Temperature for day 3: 15
+  Temperature for day 4: 20
+  Temperature for day 5: 25
+  Average temperature: 15.0
+  Number of days above average temperature: 2
