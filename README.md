@@ -36,11 +36,11 @@ java TempCalc.java
 
 ## Example output
 
-Please enter 5 temperatures:
-Temperature for day 1: 5
-Temperature for day 2: 10
-Temperature for day 3: 15
-Temperature for day 4: 20
-Temperature for day 5: 25
-Average temperature: 15.0
-Number of days above average temperature: 2
+- Please enter 5 temperatures:
+- Temperature for day 1: 5
+- Temperature for day 2: 10
+- Temperature for day 3: 15
+- Temperature for day 4: 20
+- Temperature for day 5: 25
+- Average temperature: 15.0
+- Number of days above average temperature: 2
